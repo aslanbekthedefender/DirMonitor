@@ -1,1 +1,1 @@
-Thank you for using my tool. I hope it will help you in Malware Analysis process.
+Thank you for using my tool. I hope it will help you in Malware Analysis process. This tool is designed to monitor directory changes and network activities into .txt files to understant what malware chnaged in folders and files.
